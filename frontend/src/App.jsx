@@ -70,7 +70,6 @@ function App() {
             <ShoppingBag size={32} />
             <h1>AI Product Finder</h1>
           </div>
-          <p className="tagline">Powered by Gemini 2.0 Flash</p>
         </div>
       </header>
 
